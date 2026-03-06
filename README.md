@@ -15,3 +15,8 @@ It trains a machine learning model to be able to predict the target outcome, whi
 - How to clean messy dataset using python.
 - How to create a lookup table.
 - How to train a machine learning model using RandomForest
+
+## Preview
+[British Airway.ipynb](https://github.com/David-Babayemi/customer-bookings.git)
+
+> Click the link above to see the preview of the project
